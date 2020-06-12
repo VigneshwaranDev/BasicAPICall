@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    align-items: center;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
+
+.container {
+    margin: 25px 0 25px 0;
+    text-align: center;
+}
+
+#container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
